@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+data/raw/
+*.csv
+*.log
+.DS_Store
+.ipynb_checkpoints/
+tabpy_log/
