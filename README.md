@@ -9,7 +9,7 @@
 
 > **A full-stack data analytics system for Berlin bike-sharing operations** — real-time station monitoring, historical pattern analysis, and short-term availability forecasting. Built on live Nextbike Berlin API data.
 
-**[Live Demo (Streamlit)](https://your-app.streamlit.app)** &nbsp;|&nbsp; **[Tableau Dashboard (Public)](https://public.tableau.com/your-link)**
+**[Live Demo (Streamlit)](https://bikeshare-analytics-dashboard-9z7j5nofrh4hg9e.streamlit.app)** &nbsp;|&nbsp; **[Tableau Dashboard (Public)](https://public.tableau.com/your-link)**
 
 ---
 
